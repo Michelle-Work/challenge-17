@@ -1,0 +1,16 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    font-faily: 'Open Sans', sans-serif;
+}
+
+h1 {
+    color: blue;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+p {
+    font-weight: bold;
+}
